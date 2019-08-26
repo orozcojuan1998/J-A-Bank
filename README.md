@@ -1,2 +1,2 @@
 # J-A-Bank
-Aplicaciób web con servicios financieros incluidos.
+Aplicación web con servicios financieros incluidos.
